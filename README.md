@@ -36,10 +36,16 @@ Backend development: Learning to build APIs using **ASP.NET Core**, EF Core, and
 
 ### Currently exploring
 
+### Currently exploring
+
 <img src="https://cdn.simpleicons.org/dotnet/64748B" height="26" title="Aspire" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="26" title="SSMS" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="26" title="Docker" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="26" title="Angular" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="26" title="Angular" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="26" title="GitHub Actions" />&nbsp;
+<img src="https://cdn.simpleicons.org/seq/4B8BBE" height="26" title="Seq" />&nbsp;
+<img src="https://cdn.simpleicons.org/aspire/64748B" height="26" title="Aspire Dashboard" />
+
 
 </td>
 <td width="50%" valign="top">
